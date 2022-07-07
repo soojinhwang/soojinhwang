@@ -17,7 +17,7 @@
 
 <br>
 
-<h4>🌈 I feel comfortable working with </h4>
+<h4>🌈 I feel comfortable working with...</h4>
 <p>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&emsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&emsp;
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h4>📖 Currently Studying</h4>
+<h4>📖 Currently learning...</h4>
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&emsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&emsp;
