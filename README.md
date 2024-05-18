@@ -1,8 +1,8 @@
 <h2 align='center'> Hi there 👋 I'm Soo-Jin </h2>
 
 <p align='center'>
-  I'm a former architect who finished a full stack web development bootcamp in 2022.<br>
-  After travelling in New Zealand for 7 months, I'm back in London.<br>
+  I'm a former architect who finished a fullstack web development bootcamp in 2022.<br>
+  Currently working in living in London.<br>
   Please feel free to reach out!
 </p>
 
